@@ -1,2 +1,1 @@
-# welcome-to-java
-Description about java
+welcome to world of java
